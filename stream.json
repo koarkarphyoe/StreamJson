@@ -3,61 +3,61 @@
     {
       "id": 1,
       "name": "NMXLive",
-      "imageUrl": "959909884848",
+      "imageUrl": "",
       "streamUrl": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"
     },
     {
       "id": 2,
       "name": "NBT Bangkok",
-      "imageUrl": "959909884848",
+      "imageUrl": "",
       "streamUrl": "http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8"
     },
     {
       "id": 3,
       "name": "TV 41",
-      "imageUrl": "959909884848",
+      "imageUrl": "",
       "streamUrl": "https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8"
     },
     {
       "id": 4,
       "name": "ThairathTV32",
-      "imageUrl": "959909884848",
+      "imageUrl": "",
       "streamUrl": "https://live.thairath.co.th/trtv2/playlist.m3u8"
     },
     {
       "id": 5,
       "name": "Cinema I",
-      "imageUrl": "959909884848",
+      "imageUrl": "",
       "streamUrl": "oral.kovacek@example.org"
     },
     {
       "id": 6,
       "name": "Cinema I",
-      "imageUrl": "959909884848",
+      "imageUrl": "",
       "streamUrl": "oral.kovacek@example.org"
     },
     {
       "id": 7,
       "name": "Cinema I",
-      "imageUrl": "959909884848",
+      "imageUrl": "",
       "streamUrl": "oral.kovacek@example.org"
     },
     {
       "id": 8,
       "name": "Cinema I",
-      "imageUrl": "959909884848",
+      "imageUrl": "",
       "streamUrl": "oral.kovacek@example.org"
     },
     {
       "id": 9,
       "name": "Cinema I",
-      "imageUrl": "959909884848",
+      "imageUrl": "",
       "streamUrl": "oral.kovacek@example.org"
     },
     {
       "id": 10,
       "name": "Cinema I",
-      "imageUrl": "959909884848",
+      "imageUrl": "",
       "streamUrl": "oral.kovacek@example.org"
     }
   ]
