@@ -8,9 +8,9 @@
     },
     {
       "id": 2,
-      "name": "TvMuslim",
+      "name": "NBT Bangkok",
       "imageUrl": "959909884848",
-      "streamUrl": "http://vip2.liveanywhere.asia:1935/tvmuslim/tvmuslim/playlist.m3u8"
+      "streamUrl": "http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8"
     },
     {
       "id": 3,
@@ -20,9 +20,9 @@
     },
     {
       "id": 4,
-      "name": "TrueSport HD",
+      "name": "ThairathTV32",
       "imageUrl": "959909884848",
-      "streamUrl": "https://smart-tv.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8"
+      "streamUrl": "https://live.thairath.co.th/trtv2/playlist.m3u8"
     },
     {
       "id": 5,
