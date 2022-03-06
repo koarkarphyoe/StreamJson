@@ -2,27 +2,27 @@
   "data": [
     {
       "id": 1,
-      "name": "Cinema I",
+      "name": "NMXLive",
       "imageUrl": "959909884848",
       "streamUrl": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"
     },
     {
       "id": 2,
-      "name": "Cinema I",
+      "name": "TvMuslim",
       "imageUrl": "959909884848",
-      "streamUrl": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"
+      "streamUrl": "http://vip2.liveanywhere.asia:1935/tvmuslim/tvmuslim/playlist.m3u8"
     },
     {
       "id": 3,
-      "name": "Cinema I",
+      "name": "TV 41",
       "imageUrl": "959909884848",
-      "streamUrl": "oral.kovacek@example.org"
+      "streamUrl": "https://smart-tv.livedoomovie.com:4431/02_TennisHD_720p/chunklist.m3u8"
     },
     {
       "id": 4,
-      "name": "Cinema I",
+      "name": "TrueSport HD",
       "imageUrl": "959909884848",
-      "streamUrl": "oral.kovacek@example.org"
+      "streamUrl": "https://smart-tv.livedoomovie.com:4431/02_2sporthd4_720p/chunklist.m3u8"
     },
     {
       "id": 5,
