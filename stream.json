@@ -56,9 +56,9 @@
     },
     {
       "id": 10,
-      "name": "Cinema I",
+      "name": "ThaiTV 5",
       "imageUrl": "https://th.bing.com/th/id/OIP.lIY_RRAhVNOoJQs_vs8fRwAAAA?pid=ImgDet&rs=1",
-      "streamUrl": "oral.kovacek@example.org"
+      "streamUrl": "http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8"
     }
   ]
 }
