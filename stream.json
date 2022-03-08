@@ -26,9 +26,9 @@
     },
     {
       "id": 5,
-      "name": "Cinema I",
-      "imageUrl": "https://th.bing.com/th/id/OIP.lIY_RRAhVNOoJQs_vs8fRwAAAA?pid=ImgDet&rs=1",
-      "streamUrl": "oral.kovacek@example.org"
+      "name": "MV Tv",
+      "imageUrl": "https://www.mvtv.co.th/wp-content/uploads/2019/01/cropped-mvtv-favicon-32x32.png",
+      "streamUrl": "https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8"
     },
     {
       "id": 6,
