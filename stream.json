@@ -32,9 +32,9 @@
     },
     {
       "id": 6,
-      "name": "Cinema I",
+      "name": "EMTV",
       "imageUrl": "https://th.bing.com/th/id/OIP.lIY_RRAhVNOoJQs_vs8fRwAAAA?pid=ImgDet&rs=1",
-      "streamUrl": "oral.kovacek@example.org"
+      "streamUrl": "https://bcovlive-a.akamaihd.net/4805ddb8014d4ea5a938a8bf0e999416/ap-southeast-2/6267995011001/playlist.m3u8"
     },
     {
       "id": 7,
