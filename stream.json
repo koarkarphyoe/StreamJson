@@ -8,9 +8,9 @@
     },
     {
       "id": 1,
-      "name": "NMXLive",
+      "name": "DVB",
       "imageUrl": "https://th.bing.com/th/id/OIP.lIY_RRAhVNOoJQs_vs8fRwAAAA?pid=ImgDet&rs=1",
-      "streamUrl": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"
+      "streamUrl": "https://www.dailymotion.com/cdn/live/video/x852wwl.m3u8?sec=9EBE6uR22QqA30f945-O_cHglR0D4_fn6i9pnh3iBai_1aHHGNheRnQj6aiiTP8Ue2KXpZR5q52pIgJsRp-S1Q&dmTs=160850&dmV1st=362A431395352AC8E0BD24E4385D337C"
     },
     {
       "id": 2,
@@ -65,6 +65,12 @@
       "name": "ThaiTV 5",
       "imageUrl": "https://th.bing.com/th/id/OIP.lIY_RRAhVNOoJQs_vs8fRwAAAA?pid=ImgDet&rs=1",
       "streamUrl": "http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8"
-    }
+    },
+    {
+      "id": 11,
+      "name": "NMXLive",
+      "imageUrl": "https://th.bing.com/th/id/OIP.lIY_RRAhVNOoJQs_vs8fRwAAAA?pid=ImgDet&rs=1",
+      "streamUrl": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"
+    },
   ]
 }
