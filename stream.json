@@ -10,7 +10,7 @@
       "id": 1,
       "name": "DVB",
       "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "https://stream-05.sg1.dailymotion.com/sec(kBDwkJsL9-oSpBjjjrqeeOlYsRKoKT2kAWY2AMxHaaw)/dm/3/x852wwl/s/live-0.m3u8#cell=lsg1"
+      "streamUrl": "https://www.dailymotion.com/cdn/live/video/x852wwl.m3u8?sec=9EBE6uR22QqA30f945-O_WLpezcMdnfSTBexkQS_-K_3Ia4e1TdkZR5ka4x5cE2Enu_Wf-YVL0K7LXOENAX9aQ&dmTs=160850&dmV1st=362A431395352AC8E0BD24E4385D337C"
     },
     {
       "id": 2,
@@ -44,9 +44,9 @@
     },
     {
       "id": 7,
-      "name": "Cinema I",
+      "name": "Mahar",
       "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "oral.kovacek@example.org"
+      "streamUrl": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDIyIDg6MzQ6NTggQU0maGFzaF92YWx1ZT1EQ0grU3VjV25WdGpTeS9aSXh3THFRPT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTIw"
     },
     {
       "id": 8,
