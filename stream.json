@@ -20,9 +20,9 @@
     },
     {
       "id": 3,
-      "name": "ALTV",
+      "name": "MITV",
       "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
-      "streamUrl": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8"
+      "streamUrl": "https://playback2.akamaized.net/streams/7063221_9340397_lsiuruavepkdugqu1fp_1/master.m3u8?dw=14400&hdnts=exp=1647247803~acl=/streams/7063221_9340397_lsiuruavepkdugqu1fp_1/master.m3u8*~hmac=5180d87b7422be993e93fdc0127dec0738e6b5955ed352d2739fae994c5d0397"
     },
     {
       "id": 4,
@@ -77,6 +77,13 @@
       "name": "NBT Bangkok",
       "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
       "streamUrl": "http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8"
+    }
+    ,
+    {
+      "id": 13,
+      "name": "ALTV",
+      "imageUrl": "https://github.com/koarkarphyoe/img/blob/main/channel%20logo.png?raw=true",
+      "streamUrl": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8"
     }
   ]
 }
